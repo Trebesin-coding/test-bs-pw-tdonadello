@@ -27,4 +27,4 @@ def main():
     
 
 if __name__ == "__main__":
-    main())
+    main()) # U: proč je tu závorka navíc?
